@@ -1,0 +1,5 @@
+consider http://HOST:PORT/item/0/name/MAX
+    remove ids from URLs, references items only by key (or value)
+    rather use .../key/<key>/value/<value> only ?
+
+make KVS serve Collection-JSON content-type
